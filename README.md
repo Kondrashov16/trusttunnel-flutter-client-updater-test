@@ -1,3 +1,3 @@
-# trusttunnel-fluter-client-updater-test
+# trusttunnel-flutter-client-updater-test
 
 test
